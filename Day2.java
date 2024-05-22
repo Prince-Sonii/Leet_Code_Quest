@@ -1,4 +1,4 @@
-class SingleNumber {
+class Day2 {
     //Qno.136 Single Number
     //Solution using bit-wise operator
     static int singleNumber(int[] nums) {
